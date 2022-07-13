@@ -1,0 +1,487 @@
+Id,couse name,high school name,shcool type,shift,graduation year,has a PC at home,share this PC with other people at home,Internet,previous experience of any computer language,worked or interned before the degree,company name,year started working,year stopped working,started other degree programmes,degree course,institution name,year started this degree,year stoped this degree,sex,age,civil status,have kids
+1168,Engenharia de Materiais,CMM,0,morning shift,1994,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,18,married,0
+1502,Engenharia Química,Escola Estadual Frei Silvio Vagheggi,0,morning shift,2015,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+1591,Engenharia de Produção,IDAAM,1,morning shift,2014,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,22,single,0
+2182,Matemática - Licenciatura Noturno,aldeia do conhecimento,0,afternoon shift,2015,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,22,single,0
+2306,Engenharia Química,Colégio Dom bosco,1,morning shift,2017,1,0,1,0,1,Secretara Municipal de Educação,2000,2007,1,Química Bacharelado,UFAM,2008,2016,1,29,single,0
+2495,Matemática - Licenciatura Noturno,E.E Áurea Pinheiro Braga,0,morning shift,2014,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,23,single,0
+2535,Engenharia Elétrica,Escola Estadual Maria Calderaro,0,morning shift,2016,0,0,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+2613,Engenharia de Produção,Martha Falcão ,1,morning shift,2015,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,2,single,0
+2639,Engenharia de Produção,Escola Estadual de 1º e 2º Grau Cristóvão Pereira,0,night shift,1984,1,0,1,0,1,EXÉRCITO BRASILEIRO,1988,0,1,ENGENHARIA DE PRODUÇÃO,UNINORTE,2013,2014,1,53,married,1
+2869,Engenharia da Computação,Fucapi,1,morning shift,2017,1,1,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3031,Física - Licenciatura,Escola Estadual Dom Pedro 2 ,0,morning shift,2014,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,22,single,0
+3222,Engenharia de Produção,Escola Estadual Homero de Miranda Leão,0,morning shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3223,Engenharia de Produção,Escola Estadual Prof. Sebastiana Braga,0,afternoon shift,2016,1,1,1,0,1,Semp Toshiba,2015,2017,0,n/a,n/a,n/a,n/a,0,21,single,0
+3224,Engenharia de Produção,FUNDAÇÃO MATIAS MACHLINE,-1,full-time school,2016,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,21,single,0
+3225,Engenharia de Produção,Instituo Federal de Educação Ciência e Tecnologia do Amazonas,-1,full-time school,2011,1,0,1,1,1,Yamaha MOtor da Amazônia,2016,2018,1,Engenharia de Materiais,-1,2014,2016,1,26,single,0
+3226,Engenharia de Produção,Lato Sensu,1,morning shift,2014,0,0,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,22,single,0
+3227,Engenharia de Produção,Escola Estadual Senador João Bosco Ramos de Lima,0,night shift,2016,0,0,0,0,1,NASSAU,2014,2016,0,n/a,n/a,n/a,n/a,1,21,single,0
+3228,Engenharia de Produção,Centro Educacional Adalberto Valle,1,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3229,Engenharia de Produção,centro educacional la salle,1,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3230,Engenharia de Produção,waldocke fricke de lira,0,morning shift,2015,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,23,single,0
+3231,Engenharia de Produção,Ifam - Instituto Federal do Amazonas,-1,full-time school,2016,1,1,1,1,1,michelin,2016,2018,0,n/a,n/a,n/a,n/a,1,22,single,0
+3232,Engenharia de Produção,Idaam,1,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3233,Engenharia de Produção,Colegio Amazonense Dom Pedro II,0,morning shift,2013,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,24,single,0
+3234,Engenharia de Produção,Ifam ,-1,full-time school,2016,1,1,1,1,1,p&g,2016,0,0,n/a,n/a,n/a,n/a,0,21,single,0
+3235,Engenharia de Produção,Instituto Federal do Amazonas,-1,full-time school,2016,1,1,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,22,single,0
+3236,Engenharia de Produção,Aldeia do Conhecimento,0,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3237,Engenharia de Produção,E.E.Insp.Dulcinéia Varela Moura,0,morning shift,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3238,Engenharia de Produção,escola estadual vasco vasques,0,afternoon shift,2013,1,1,1,0,1,procter gamble,2016,2018,0,n/a,n/a,n/a,n/a,1,1,single,0
+3239,Engenharia de Produção,Escola Estadual Dorval Porto,0,morning shift,2016,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,22,single,0
+3240,Engenharia de Produção,IDAAM,1,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,22,single,0
+3241,Engenharia de Produção,escola estadual prof fracisco albuquerque de chagas,0,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3242,Engenharia de Produção,IDAAM,1,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,22,single,0
+3243,Engenharia de Produção,Escola Estadual Frei André da Costa,0,morning shift,2009,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,26,single,0
+3244,Engenharia de Produção,Nossa Senhora de Nazaré,0,afternoon shift,2008,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,28,single,1
+3245,Engenharia de Produção,Fundação Nokia,1,morning shift,2016,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3246,Engenharia de Produção,Escola Estadual Aldeia do Conhecimento Prof. Ruth Prestes Gonçalves,0,night shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3247,Engenharia de Produção,Centro Educacional Adalberto valle,1,morning shift,2016,0,0,0,0,1,Comercial Requinte,2017,0,0,n/a,n/a,n/a,n/a,1,20,single,0
+3248,Engenharia de Produção,E.E JOÃO BOSCO PANTOJA EVANGELISTA,0,morning shift,2016,1,0,1,0,1,SAMSUNG ELETRÔNICA DA AMAZÔNIA,2016,2018,0,n/a,n/a,n/a,n/a,0,20,single,0
+3265,Engenharia de Produção,Escola Estadual Homero de Miranda Leão,0,morning shift,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,21,single,0
+3273,Engenharia de Produção,Colégio Militar do Rio de Janeiro,0,morning shift,2014,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,24,single,0
+3274,Física - Bacharelado,ESCOLA ESTADUAL SENADOR SEVERIANO NUNES,0,morning shift,2011,1,0,1,0,1,SCORPION,2018,0,0,n/a,n/a,n/a,n/a,1,27,single,0
+3275,Engenharia de Produção,centro educacional adalberto valle,1,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3276,Engenharia de Produção,Instituto Adventista de Manaus,1,morning shift,2013,1,0,1,0,1,TIgre ,2016,0,0,n/a,n/a,n/a,n/a,1,23,single,0
+3277,Engenharia de Produção,Escolas IDAAM,1,afternoon shift,2013,1,0,1,0,1,Breitener,2017,0,0,n/a,n/a,n/a,n/a,0,23,single,0
+3278,Engenharia de Produção,Escolas Idaam,1,morning shift,2013,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,23,single,0
+3279,Engenharia de Produção,colégio militar da polícia militar,0,morning shift,2015,1,0,0,0,1,salcomp,2014,2015,1,administração de empresas,CEULM - CENTRO UNIVERSITARIO LUTERANO DE MANAUS,2016,2017,0,20,single,0
+3280,Engenharia de Produção,La Salle,1,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3404,Matemática - Licenciatura Diurno,Escola Estadual Professora Alice Salerno Gomes de Lima,0,morning shift,2012,1,0,1,0,1,INMET,2010,2012,0,n/a,n/a,n/a,n/a,1,25,single,0
+3446,Engenharia de Produção,Escola Estadual Aldeia Ruth Prestes,0,morning shift,2010,1,1,0,1,1,MGS Consulting,2013,2014,0,n/a,n/a,n/a,n/a,0,28,single,0
+3447,Engenharia de Produção,centro educacional adalberto valle,1,morning shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3448,Engenharia de Produção,Escola Estadual Roderick de Castelo Branco,0,night shift,2002,1,0,1,1,1,Diversas empresas ,2007,2018,1,Tecnologia em Redes de Computadores,-1,2010,2012,1,33,married,1
+3503,Engenharia de Produção,Adalberto Valle,1,morning shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3504,Engenharia de Materiais,Escola Estadual Prof Francisco Albuquerque,0,morning shift,2016,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3633,Engenharia da Computação,escola estadual estelita tapajos,0,morning shift,2007,1,0,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,29,single,0
+1085,Pós-graduação em Informática,Teste,0,morning shift,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,3,single,0
+1168,Engenharia de Materiais,CMM,0,morning shift,1994,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,18,married,0
+1456,Matemática - Licenciatura Noturno,IFAM CMDI,-1,full-time school,2013,1,0,1,1,1,TILOOG,2014,2014,0,n/a,n/a,n/a,n/a,1,25,single,0
+1571,Matemática - Licenciatura Diurno,INSTITUTO BENJAMIN CONSTANT ,0,night shift,2001,1,0,0,1,1,MIR IMPORTACAO E EXPOSRTACAO ,2009,2011,0,n/a,n/a,n/a,n/a,1,36,single,0
+1683,Física - Licenciatura,Escola Estadual Dr° Isaac Sverner,0,morning shift,2012,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,25,single,0
+1770,Sistemas de Informação,Escola Estadual Dom Pedro II,0,morning shift,2017,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,22,single,0
+2198,Matemática - Bacharelado,Escola Estadual Solon de Lucena,0,morning shift,2016,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+2371,Matemática - Bacharelado,2CMPM,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+2372,Matemática - Licenciatura Diurno,Escola Estadual João Bosco Ramos de Lima,0,afternoon shift,2015,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+2377,Matemática - Licenciatura Diurno,Escola Estadual Maria Emilia Martins Mestrinho de Medeiro Raposo,0,afternoon shift,2012,1,0,1,1,1,Policlinica Codajas,2014,2015,1,Análise e Desenvolvimento de Sistemas,UniNorte,2013,2014,1,24,single,0
+2390,Engenharia Mecânica,Fundação Nokia,-1,full-time school,2017,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+2445,Ciência da Computação,Escola Estadual Marcantonio Vilaça,0,full-time school,2015,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,22,single,0
+2535,Engenharia Elétrica,Escola Estadual Maria Calderaro,0,morning shift,2016,0,0,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+2596,Ciência da Computação,Centro Educacional Governador Gilberto Mestrinho,0,morning shift,2014,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+2646,Engenharia de Software,Centro Educacional Recanto da Criança Interativo,1,morning shift,2016,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+2829,Engenharia Elétrica,Escola Estadual Maria Amélia do Espírito Santo,1,morning shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3044,Matemática - Bacharelado,ernesto penafort,0,afternoon shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3045,Matemática - Licenciatura Diurno,"Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - Campus Manaus Distrito Industrial",-1,full-time school,2016,1,1,1,1,1,Sony do Brasil,2016,2017,0,n/a,n/a,n/a,n/a,1,21,single,0
+3046,Matemática - Licenciatura Diurno,Escola Estadual Senador Manuel Severiano Nunes,0,afternoon shift,2016,0,0,0,0,1,DB Supermercados,2013,2015,0,n/a,n/a,n/a,n/a,1,20,single,0
+3047,Matemática - Licenciatura Diurno,Antônio Ferreira de Oliveira,0,night shift,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3048,Matemática - Licenciatura Diurno,Escola Estadual Professora Sebastiana Braga,0,morning shift,2016,1,0,1,0,1,Greif Embalagens Industriais do Amazonas,2016,2018,0,n/a,n/a,n/a,n/a,0,19,single,0
+3049,Matemática - Licenciatura Diurno,Escola Estadual de Tempo Integral Dra. Zilda Arns Neumann,0,full-time school,2016,1,1,1,0,1,Midea Carrier ,2017,0,0,n/a,n/a,n/a,n/a,0,20,single,0
+3050,Matemática - Licenciatura Diurno,Escola Estadual Manoel Severiano Nunes,0,afternoon shift,2016,1,1,1,0,1,Flex Industries,2013,2015,0,n/a,n/a,n/a,n/a,1,20,single,0
+3051,Matemática - Licenciatura Noturno,Escola Estadual Marcio Nery,0,morning shift,2018,1,1,1,0,1,trabalhei em uma grafica,2013,2014,0,n/a,n/a,n/a,n/a,0,24,single,0
+3052,Matemática - Licenciatura Diurno,Aldeia do Conhecimento,0,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3053,Matemática - Bacharelado,Colégio Militar de Manaus,0,morning shift,2014,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,22,single,0
+3054,Matemática - Licenciatura Diurno,Escola Estadual Professora Maria Arminda Guimarães de Andrade,0,afternoon shift,2004,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,34,married,1
+3055,Matemática - Bacharelado,Escola Estadual Professor Ruy Alencar,0,afternoon shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3056,Matemática - Licenciatura Diurno,Escola Estadual Jose Mota,0,morning shift,2014,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,23,single,0
+3057,Matemática - Bacharelado,ESCOLA ESTADUAL ANTONIO MAURITY MONTEIRO COELHO,0,afternoon shift,2015,1,0,1,0,1,DIRETORIA DE ATIVIDADES TÉCNICAS - CORPO DE BOMBEIROS,2017,2018,0,n/a,n/a,n/a,n/a,0,22,single,0
+3058,Matemática - Licenciatura Diurno,Unidade Dra. Êmina Barbosa Mustafa-03 SESI ,1,full-time school,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3059,Matemática - Licenciatura Diurno,colegio militar da policia militar,0,morning shift,2016,1,1,1,1,0,n/a,n/a,n/a,1,engenharia de software,FUCAPI,2017,2017,1,21,single,0
+3060,Matemática - Licenciatura Diurno,Escola Estadual Inspetora Dulcinéia Varela Moura,0,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3061,Matemática - Bacharelado,Escola Estadual Maria da Luz Calderaro ,0,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3062,Matemática - Bacharelado,Escola Estadual Aldeia do Conhecimento Profa Ruth Prestes Gonçalves ,0,afternoon shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3063,Ciência da Computação,aldeia do conhecimento prof ruth prestes,0,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3064,Matemática - Bacharelado,SÃO GABRIEL DA CACHOEIRA,0,afternoon shift,2015,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,22,single,0
+3065,Matemática - Bacharelado,escola estadual tempo integral professora lecita fonceca ramos,0,afternoon shift,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3066,Matemática - Licenciatura Diurno,Escola Estadual Dulcineia Varela Moura,0,morning shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3067,Matemática - Bacharelado,Escola Estadual Senador João Bosco Ramos de Lima,0,morning shift,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3068,Matemática - Licenciatura Diurno,"IFAM - Campus Eirunepé - Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",-1,full-time school,2016,0,0,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3069,Matemática - Bacharelado,IFAM- Campus Manaus Centro  ,-1,full-time school,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3070,Matemática - Licenciatura Diurno,COLÉGIO MILITAR DA POLICIA MILITAR,0,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3071,Matemática - Licenciatura Diurno,IFAM - Campus Manaus Centro ,-1,full-time school,2018,0,0,0,0,1,Laboratório de Materiais de Construção do IFAM - Campus Manaus Centro,2016,2016,0,n/a,n/a,n/a,n/a,0,20,single,0
+3072,Matemática - Licenciatura Diurno,Escola Estadual solon de Lucena,0,night shift,2016,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,23,single,0
+3073,Matemática - Licenciatura Diurno,SEDUC AM,0,night shift,2016,1,0,1,0,1,FORÇA AEREA BRASILEIRA,1987,2016,1,ADMINISTRAÇÃO,UFAM,2004,2008,1,50,married,1
+3255,Matemática - Licenciatura Diurno,Senador João Bosco,0,afternoon shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3258,Matemática - Licenciatura Diurno,Escola Estadual Frei Mário Monacelli,0,afternoon shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,21,single,0
+3259,Matemática - Licenciatura Diurno,Escola Técnica Federal do Amazonas,-1,morning shift,1993,1,1,1,0,1,CCE da Amazônia,1994,1996,1,EstatÍstica,UFAM,1998,2000,0,45,married,1
+3260,Matemática - Bacharelado,Colegio Dom Bosco,1,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3399,Matemática - Licenciatura Diurno,escola estadual senador manoel severiano nunes,0,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3400,Matemática - Licenciatura Diurno,Escola Estadual Nossa Senhora Das Graças,0,morning shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3401,Matemática - Bacharelado,Centro Educacional Governador Gilberto Mestrinho,0,afternoon shift,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,18,single,0
+3410,Matemática Aplicada,sdzrh,-1,full-time school,2018,1,0,1,0,1,agrsg,2001,0,1,asdgasdg,asgasdg,2002,0,0,1,widower,1
+3478,Engenharia de Materiais,ESCOLA ESTADUAL PROFESSOR ANTENOR SARMENTO PESSOA,0,afternoon shift,2011,1,0,1,1,1,SUSAM,2013,2014,1,ENGENHARIA ELÉTRICA,UNINORTE,2013,0,1,25,single,0
+3486,Matemática - Bacharelado,Senador Petrônio Portella,0,full-time school,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3624,Ciência da Computação,afrtgqwer,1,afternoon shift,2018,1,0,1,0,1,sadfasdf,0,0,0,n/a,n/a,n/a,n/a,1,1,single,0
+1222,Matemática - Licenciatura Noturno,centro educacional arthur virgilio filho,0,night shift,2014,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,23,married,0
+1604,Matemática - Licenciatura Noturno,ifam,-1,full-time school,2014,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,24,single,0
+1900,Matemática - Licenciatura Noturno,Escola Estadual Ensino Fundamental e Médio Onésima Pereira de Barros,0,night shift,1997,0,0,0,0,1,metal fino da amazonia,2011,2013,0,n/a,n/a,n/a,n/a,1,43,single,0
+2170,Matemática - Licenciatura Noturno,Colégio DOm Pedro II,0,afternoon shift,2013,1,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,24,single,0
+2184,Matemática - Licenciatura Noturno,Escola Estadual Dr. isaac sverner ,0,afternoon shift,2015,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+2362,Matemática - Licenciatura Noturno,Escola Estadual Professor Samuel Benchimol,0,afternoon shift,2014,0,0,0,0,1,Philco,2015,0,0,n/a,n/a,n/a,n/a,0,23,single,0
+2363,Matemática - Licenciatura Noturno,Escola Técnica Federal do Amazonas,-1,afternoon shift,1999,1,0,1,1,1,Jabil,2010,2013,1,Engenharia Elétrica,UEA,2002,2011,1,39,single,0
+2490,Matemática - Licenciatura Noturno,José Bernardino Lindoso,0,afternoon shift,2014,1,0,1,0,1,Samsung Eletronics da Amazônia,2014,2016,0,n/a,n/a,n/a,n/a,1,22,single,0
+2497,Matemática - Licenciatura Noturno,escola estadual vasco vasques,0,morning shift,2008,1,0,1,0,1,Genio mat de construção,2012,0,0,n/a,n/a,n/a,n/a,1,28,married,1
+2550,Matemática - Licenciatura Noturno,colegio militar da policia militar,0,morning shift,2015,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+2636,Engenharia de Software,gfgdgfg,-1,night shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,36,widower,0
+2643,Matemática - Licenciatura Noturno,E. E  Dr. Isaac Swerner,0,morning shift,2012,0,0,0,0,1,Eletromag,2012,2012,0,n/a,n/a,n/a,n/a,0,25,single,1
+2947,Matemática - Licenciatura Noturno,Escola Estadual Dr. Isaac Sverner ,0,afternoon shift,2015,0,0,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,25,single,0
+2960,Engenharia Elétrica,Fundação Nokia,-1,full-time school,2016,1,0,1,1,1,Amazonet,2017,0,0,n/a,n/a,n/a,n/a,1,20,single,0
+3011,Matemática - Licenciatura Noturno,Instituto Professor Denizard Rivail,1,morning shift,2016,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3366,Matemática - Licenciatura Noturno,CEFET-AM / UNED,-1,morning shift,2006,1,0,1,0,1,Centro Educacional Lato Sensu,2012,0,1,Bacharelado em Matemática Aplicada,Ufam,2011,2015,0,33,single,0
+3367,Matemática - Licenciatura Noturno,Escola Estadual Roderick Castelo Branco ,0,afternoon shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3368,Matemática - Licenciatura Noturno,Escola Estadual Aldeia do conhecimento Professora Ruth Prestes Gonçalves,0,night shift,2016,1,1,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3369,Matemática - Licenciatura Noturno,escola estadual gabrielle cogels,0,full-time school,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3370,Matemática - Licenciatura Noturno,colégio amazonense dom pedro II,-1,morning shift,1998,0,0,0,0,1,semed,1998,1999,1,matematica ,UFRRJ,2015,2016,1,39,single,0
+3371,Matemática - Licenciatura Noturno,"Instituto Federal de Educação, Ciência e Tecnologia do Amazonas -  Campus Coari",-1,morning shift,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3372,Matemática - Licenciatura Noturno,Sebastiana Braga,0,morning shift,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,1
+3373,Matemática - Licenciatura Noturno,UFAM,0,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3374,Matemática - Licenciatura Noturno,ESCOLA ESTADUAL NOSSA SENHORA DE NAZARE,0,night shift,2016,0,0,0,0,1,TRE-TRIBUNAL REGIONAL ELEITORAL,2016,2016,0,n/a,n/a,n/a,n/a,1,20,single,0
+3375,Matemática - Licenciatura Noturno,Escola Estadual Dorval Porto,0,afternoon shift,2016,0,0,0,0,1,Diebold Procomp ,2015,2017,0,n/a,n/a,n/a,n/a,0,21,single,0
+3376,Matemática - Licenciatura Noturno,Escola Estadual Maria Emília M. M. M. Raposo.,0,afternoon shift,2016,1,0,1,0,1,Cartório Eleitoral de Autazes (T.R.E),2015,2016,0,n/a,n/a,n/a,n/a,1,21,single,0
+3377,Matemática - Licenciatura Noturno,UNED,0,morning shift,2006,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,29,single,0
+3378,Matemática - Licenciatura Noturno,Escola Estadual Nossa Senhora Aparecida,0,afternoon shift,2016,1,1,1,0,1,SASMET ,2016,2017,0,n/a,n/a,n/a,n/a,1,21,single,0
+3379,Matemática - Licenciatura Noturno,Instituto de Educação do Amazonas,0,full-time school,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3380,Matemática - Licenciatura Noturno,ifam ,-1,full-time school,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,21,single,0
+3381,Ciência da Computação,Centro Educacional La Salle,1,afternoon shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3383,Matemática - Licenciatura Noturno,ESCOLA ESTADUAL MARIA AMÉLIA DOS SANTOS,0,afternoon shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3384,Matemática - Licenciatura Noturno,Escola Estadualo Brigadeiro João Camarão Telles Ribeiro ,0,afternoon shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3385,Matemática - Licenciatura Noturno,escola estadual aldeia do conhecimento ,0,morning shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3386,Matemática - Licenciatura Noturno,Escola Estadual Olavo Bilac,0,night shift,2009,1,0,1,0,1,HSBC,2007,2009,0,n/a,n/a,n/a,n/a,1,28,single,0
+3387,Matemática - Licenciatura Noturno,escola estadual sebastiana braga,0,afternoon shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,21,single,0
+3388,Matemática - Licenciatura Noturno,Fundaçao Matias machline,-1,full-time school,1995,1,0,1,1,1,UP Computadores,1996,1998,1,Ciencia da Compuatacao e Gestao em rede de Computadores ,UFAM,1996,1998,1,43,single,1
+3389,Matemática - Licenciatura Noturno,escola estadual inspetora dulcineia varela moura,0,morning shift,2016,0,0,0,0,1,seduc,2015,2016,0,n/a,n/a,n/a,n/a,0,20,single,0
+3390,Matemática - Licenciatura Noturno,Centro Educacional SESC Jose Roberto Tadros,1,morning shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3391,Matemática - Licenciatura Noturno,Escola Estadual José Seffair,0,afternoon shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3392,Matemática - Licenciatura Noturno,"instituto federal, ciência e tecnologia, do amazonas",-1,full-time school,2018,0,0,0,0,1,ifam,2016,2016,0,n/a,n/a,n/a,n/a,0,22,single,0
+3393,Matemática - Licenciatura Noturno,Escola Estadual Ruy Araújo,0,morning shift,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3394,Matemática - Licenciatura Noturno,IFAM,-1,full-time school,2016,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,22,single,0
+3395,Matemática - Licenciatura Noturno,escola estadual aldeia do conhecimento ,0,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3396,Matemática - Licenciatura Noturno,Solon de Lucena,0,afternoon shift,2006,1,1,0,0,0,n/a,n/a,n/a,1,Ciência Contábeis,Uninilton Lins,2015,0,1,32,single,1
+3480,Matemática - Licenciatura Noturno,CAP Central de Aulas Particulares,1,morning shift,2005,0,0,0,1,0,n/a,n/a,n/a,1,Engenharia Civil,-1,2006,2014,1,31,single,0
+3481,Ciência da Computação,Aldeia do Conhecimento Ruth Prestes Gonçalves,0,morning shift,2014,1,1,1,0,1,Centro Educacional Cemecre,2012,2012,0,n/a,n/a,n/a,n/a,0,23,single,0
+3482,Matemática - Licenciatura Noturno,Maria teixeira gões ,0,night shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,22,single,1
+3483,Matemática - Licenciatura Noturno,dom joão de souza lima,0,afternoon shift,2007,1,0,1,0,1,am medina,2011,2013,1,turismo,uninorte,2008,2011,0,29,married,1
+3484,Ciência da Computação,Escola Estadual Frei Silvio Vagheggi,0,morning shift,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,22,single,1
+3520,Matemática - Licenciatura Noturno,Centro de Ensino Maria Angelim,1,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3544,Matemática - Licenciatura Noturno,Escola Estadual São Jorge,0,morning shift,2006,1,0,1,1,1,Exército Brasileiro,2007,0,1,Licenciatura em Química,UFAM,2013,2014,1,31,married,1
+3551,Engenharia Mecânica,colegio da policia militar,0,morning shift,2014,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,23,married,1
+3555,Matemática - Licenciatura Noturno,ifam,-1,full-time school,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,22,single,0
+3558,Ciência da Computação,Senador João Bosco Ramos de Lima,0,night shift,2008,1,0,1,0,1,DWG Assessoria,2016,2017,1,Licenciatura em Ciências da Matemática,Uninorte,2012,2016,1,29,single,0
+1168,Engenharia de Materiais,CMM,0,morning shift,1994,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,18,married,0
+1206,Física - Bacharelado,Colégio Amazonense Dom Pedro II,0,night shift,2012,1,0,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,24,single,0
+1599,Física - Bacharelado,Waldock Fricke Lyra,0,afternoon shift,2014,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,23,single,0
+2006,Física - Bacharelado,Denizard Rivail,1,morning shift,2015,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+2013,Física - Licenciatura,colegio brasileiro Pedro Silvestre ,0,afternoon shift,2012,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,25,single,0
+2139,Física - Bacharelado,Escola Estadual Inspetora Dulcinéia Varela Moura,0,afternoon shift,2015,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,21,single,0
+2143,Física - Bacharelado,Escola Estadual Angelo Ramazzotti,0,morning shift,2015,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+2146,Física - Licenciatura,instituto de educação do amazonas,0,full-time school,2015,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+2148,Física - Bacharelado,IV CMPM Aurea Pinheiro Braga,0,morning shift,2015,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+2149,Física - Bacharelado,Aldeia do Conhecimento Profa Ruth Prestes Gonçalvez,0,afternoon shift,2015,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,22,single,0
+2151,Física - Bacharelado,Escola Estadual Senador Petronio Portella ,0,full-time school,2015,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,22,single,0
+2154,Física - Bacharelado,Escola Estadual senador joao bosco ramos de lima,0,afternoon shift,2015,1,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,23,single,0
+2195,Matemática - Licenciatura Diurno,Escola Estadual Nossa Senhora Aparecida,0,afternoon shift,2015,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,22,single,0
+2348,Física - Bacharelado,escola estadual de tempo integral aurea pinheiro braga,0,full-time school,2015,1,1,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,21,single,0
+2535,Engenharia Elétrica,Escola Estadual Maria Calderaro,0,morning shift,2016,0,0,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+2636,Engenharia de Software,gfgdgfg,-1,night shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,36,widower,0
+2880,Física - Bacharelado,escola estadual danilo de mattos areosa,0,afternoon shift,2012,1,1,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,24,married,0
+2921,Física - Bacharelado,Instituto de Educação de Amazonas,0,morning shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+2968,Física - Licenciatura,escola estadual vasco vasques,0,night shift,2015,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,22,single,0
+2975,Física - Licenciatura,Instituto de Educação do Amazonas,0,full-time school,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3025,Física - Licenciatura,Escola adventista paul bernard,1,morning shift,2016,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3332,Física - Licenciatura,Escola Estadual Professora Ruth Prestes,0,afternoon shift,2016,1,0,1,1,1,Banco da Amazônia S. A.,2014,2016,0,n/a,n/a,n/a,n/a,1,21,single,0
+3333,Física - Bacharelado,Escola Estadual Professor Waldocke Fricke De Lyra,0,afternoon shift,2015,1,1,1,0,1,Escola Estadual Professor Waldocke Fricke De Lyra,2016,2017,0,n/a,n/a,n/a,n/a,1,22,single,0
+3334,Física - Licenciatura,Escola Estadual Solon de Lucena,0,afternoon shift,2016,1,1,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3335,Física - Licenciatura,SESI UNIDADE 3 - DRA EMINA BARBOSA MUSTAFA,1,afternoon shift,2015,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3336,Física - Bacharelado,escola estadual waldocke fricky de lyra,0,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3337,Física - Bacharelado,Colégio Dom Bosco,1,morning shift,2016,1,1,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3338,Física - Bacharelado,escola estadual de tempo integral Danilo de Mattos areosa,0,full-time school,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3339,Física - Bacharelado,CElus ,1,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3340,Física - Licenciatura,Colegio Amazonense Dom Pedro II,0,night shift,2009,0,0,0,0,1,Fundação Amazonas Sustentável ,2008,2008,0,n/a,n/a,n/a,n/a,1,29,single,0
+3341,Física - Bacharelado,cemetro- centro metropolitano de ensino,1,morning shift,2016,1,1,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3342,Física - Bacharelado,IFAM,-1,night shift,2011,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,37,married,0
+3343,Física - Bacharelado,Escola Estadual Frei silvio Vagheggi,0,morning shift,2018,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3344,Física - Licenciatura,Escola Estadual Presidente castelo branco,0,afternoon shift,2015,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,1,single,0
+3345,Física - Bacharelado,Escola Estadual Solon de Lucena,0,afternoon shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3346,Física - Bacharelado,Escola SESI - Dr Êmina Barbosa Mustafa,1,morning shift,2016,1,0,1,0,1,Federação das Indústrias do Estado do Amazonas - FIEAM,2017,0,0,n/a,n/a,n/a,n/a,1,20,single,0
+3347,Física - Licenciatura,Nossa Senhora Auxiliadora,1,morning shift,2009,1,0,1,0,1,CQLAB,2013,2013,1,Biomedicina,UNIP,2010,2014,1,27,single,0
+3348,Física - Bacharelado,Marcantonio Vilaça I,0,full-time school,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3349,Física - Licenciatura,Esc. Est. Maria Madalena Santana de Lima,0,morning shift,2013,0,0,0,1,1,Sodecia da Amazônia Ltda.,2013,2014,1,Engenharia Ambiental,Uninorte,2014,2015,0,23,single,1
+3350,Física - Licenciatura,Colégio Santa Doroteia,1,morning shift,2016,0,0,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3351,Física - Licenciatura,Centro de Educação Sesc José Roberto Tadros,1,afternoon shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3352,Física - Licenciatura,Escola Estadual SEnador Petrônio Portella,0,full-time school,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3353,Física - Licenciatura,Amadeu Burlamaqui Simoes ,0,morning shift,2014,1,0,0,1,0,n/a,n/a,n/a,1,matematica,uniasselvi,2015,2016,1,21,single,0
+3354,Física - Licenciatura,Cleomenes do Carmo Chaves,0,afternoon shift,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3355,Física - Bacharelado,colégio dom bosco,1,morning shift,2004,1,0,1,0,1,sefaz,2005,0,1,ciências econômicas,ufam,2007,2011,0,32,single,1
+3356,Física - Licenciatura,Colégio Adventista Paul Bernard ,1,morning shift,2013,1,0,1,1,1,Igreja Videira de Goiânia - Setor Bueno,2014,2015,1,Teologia,Faculdade KURIUS,2014,2015,1,23,single,0
+3357,Ciência da Computação,centro educacional fucapi,1,morning shift,2015,1,0,1,0,1,hospital adventista de manaus,2016,2017,0,n/a,n/a,n/a,n/a,1,21,single,0
+3358,Física - Licenciatura,COLÉGIO ADVENTISTA PAUL BERNARD,1,afternoon shift,2015,1,1,0,0,1,SEMED,2014,2015,0,n/a,n/a,n/a,n/a,0,22,single,0
+3359,Física - Licenciatura,Escola Estadual Waldemarina Ferreira,0,afternoon shift,2016,1,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3360,Física - Licenciatura,José Mota,0,afternoon shift,2018,1,1,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3361,Física - Licenciatura,IFAM,-1,full-time school,2016,1,0,1,0,1,INPA,2015,2016,0,n/a,n/a,n/a,n/a,0,21,single,0
+3362,Física - Licenciatura,escola estadual conego bento jose de souza,0,morning shift,2017,1,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,22,single,0
+3363,Física - Bacharelado,IV CMPM Aurea Pinheiro Braga,0,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,1
+3409,Ciência da Computação,Sebastiana Braga,0,afternoon shift,2012,1,0,1,1,0,n/a,n/a,n/a,1,Licenciatura em Ciências Biológicas,UFAM,2012,2015,1,26,single,0
+3423,Física - Licenciatura,Escola Estadual Dr. Isaac Sverner,0,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3424,Física - Licenciatura,Colégio Amazonense Dom Pedro II,0,afternoon shift,2016,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3425,Física - Licenciatura,Escola Estadual Liberalina Well,0,morning shift,2015,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3426,Física - Bacharelado,Instituto Adventista de Manaus,1,morning shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3427,Física - Licenciatura,Prof. Ondina de Paula Ribeiro,0,full-time school,2015,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,22,single,0
+3428,Física - Licenciatura,Escola Estadual Roderick Castelo Branco,0,afternoon shift,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3429,Física - Licenciatura,Senador Petronio Portella,0,full-time school,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,21,single,0
+3518,Física - Licenciatura,escola estadual aurea pinheiro braga,0,morning shift,2016,0,0,0,0,1,SEMED,2015,2016,0,n/a,n/a,n/a,n/a,1,20,single,0
+3633,Engenharia da Computação,escola estadual estelita tapajos,0,morning shift,2007,1,0,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,29,single,0
+1330,Estatística,Escola Estadual Nossa Senhora Aparecida,0,afternoon shift,2014,1,1,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,22,single,0
+1464,Engenharia Mecânica,CID Cabral,0,full-time school,2015,1,0,0,0,1,,0,0,0,n/a,n/a,n/a,n/a,1,1,single,0
+2224,Estatística,Centro Educacional La Salle ,1,afternoon shift,2016,1,0,1,0,1,Banco do Brasil S.A,2014,2016,0,n/a,n/a,n/a,n/a,0,20,single,0
+3107,Estatística,Ondina De Paula Ribeiro,0,afternoon shift,2014,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,22,single,0
+3111,Estatística,Escola Estadual Maria Madalena Santana De Lima,0,afternoon shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3112,Estatística,Escola Estadual Professora Sebastiana Braga,0,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3113,Estatística,Escola  Estadual  Professora Sesbastiana Braga,0,morning shift,2018,1,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3114,Estatística,Escola estadual coronel fiuza,0,afternoon shift,2018,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3115,Estatística,Fundação Matias Machline,-1,full-time school,2018,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3116,Estatística,Centro Educacional Fucapi,-1,morning shift,2017,0,0,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3117,Estatística,Escola Estadual Ângelo Ramazzotti,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3119,Estatística,Escola estadual antonio nunez jimenez,0,afternoon shift,2016,1,1,1,0,0,n/a,n/a,n/a,1,Engenharia civil,-1,2017,2017,1,19,single,0
+3120,Estatística,escola estadual brandao de amorim,0,afternoon shift,2009,1,1,1,0,1,ar service pap,2017,2018,1,licenciatura em matematica,uniasseilvi,2017,0,0,28,single,1
+3121,Estatística,Centro positiviano de ensino,1,morning shift,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,21,single,0
+3122,Estatística,"Instituto Federal de Educação, Ciência e Tecnologia do Amazonas (IFAM)",-1,full-time school,2009,1,0,1,1,1,Tribunal de Contas do Estado do Amazonas - TCE/AM,2013,2015,1,Ciências Econômicas,-1,2010,2015,0,28,single,0
+3124,Estatística,Aurea PInheiro Braga,0,full-time school,2016,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3125,Estatística,Escola Estadual Marcantonio Vilaça,0,full-time school,2009,1,0,1,0,1,Secretaria de Estado de Cultura do Amazonas,2012,2013,0,n/a,n/a,n/a,n/a,1,27,single,0
+3126,Estatística,escola estadual maria amelia do espirito santo,0,afternoon shift,2018,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3127,Estatística,escola estadua de ensino medio são josé,0,morning shift,2010,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,26,single,0
+3128,Estatística,idaam,1,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,2,single,0
+3129,Estatística,Instituto de Educaçao do Amazonas,0,full-time school,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,1,single,0
+3130,Estatística,CETI - Sergio  Alfredo Pessoa Figueredo,0,full-time school,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3131,Estatística,Escola Estadual Maria Amelia do Espirito Santo,0,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3132,Estatística,CENTRO EDUCACIONAL DRIHELLY BARBOSA,1,morning shift,2017,1,0,1,0,1,INTEC - Instalações Técnica de Engenharia LTDA.,2015,2017,0,n/a,n/a,n/a,n/a,1,19,single,0
+3133,Estatística,Fucapi,1,morning shift,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3134,Estatística,escola estadual senador petronio portela,0,full-time school,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3135,Estatística,Centro Educacional La Salle,1,morning shift,2018,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,1,single,0
+3136,Estatística,Drihelly Barbosa,1,morning shift,2017,1,0,1,0,1,Intec,2017,0,0,n/a,n/a,n/a,n/a,1,19,single,0
+3137,Estatística,Escola Estadual Antônio Lucena Bittencourt,0,afternoon shift,2018,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3138,Estatística,Escola Estadual Ruy Araujo,0,morning shift,2017,1,0,1,0,1,Conipa,2016,2017,0,n/a,n/a,n/a,n/a,1,20,single,0
+3139,Estatística,eeti professor engenheiro sergio alfredo pessoa figueiredo,0,full-time school,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,18,single,0
+3140,Estatística,E.E Dom Milton corrêa pereira,0,morning shift,2016,1,1,1,1,0,n/a,n/a,n/a,1,ciencia da computação,unip,2017,2017,1,20,single,0
+3141,Estatística,Escola estadual frei Silvio Vagheggi,0,morning shift,2008,1,0,1,0,1,Abrigo Monte salém,2014,0,1,Nutrição,Faculdade Metropolitana de Manaus,2009,2013,0,29,single,0
+3142,Estatística,Escola Estadual Carmina de Cstro,0,afternoon shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,18,single,0
+3143,Estatística,CETI Eng Sérgio Alfredo Pessoa Figueiredo ,0,full-time school,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3144,Estatística,CETI- Sergio Alfredo Pessoa de Figueiredo,0,full-time school,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3153,Ciência da Computação,Colégio DOM BOSCO,1,morning shift,2013,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,23,single,0
+3257,Sistemas de Informação,waldocke frick de lyra,0,morning shift,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3263,Estatística,Escola Estadual Professora Sebastiana Braga,0,morning shift,2017,1,0,1,0,1,Caixa Econômica Federal - SR Amazonas,2016,2017,1,Ciências Econômicas,-1,2018,2018,1,20,single,0
+3264,Estatística,Júlio Cesar de moraes passos,0,afternoon shift,2017,1,0,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,18,single,0
+3266,Estatística,Sergio Alfredo Pessoa Figueiredo ,0,full-time school,2017,1,1,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3302,Ciência da Computação,Escola Estadual Senador João Bosco,0,morning shift,2017,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3451,Estatística,E.E. PROFESSOR FRANCISCO DAS CHAGAS DE SOUZA ALBUQUERQUE,0,afternoon shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,21,single,0
+3456,Ciência da Computação,Escola Estadual Presidente Castelo Branco,0,afternoon shift,2015,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3495,Estatística,ESCOLA ESTADUAL NOSSA SENHORA DO PERPETUO SOCORRO,0,afternoon shift,2011,1,0,1,1,0,n/a,n/a,n/a,1,Gestão Ambiental,-1,2013,2016,1,25,single,0
+3506,Ciência da Computação,a,0,morning shift,2018,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,1,single,0
+3570,Estatística,Escola Estadual Marcantonio Vilaça,0,full-time school,2007,1,1,1,1,1,Philips ,2011,2012,1,Engenharia Mecatrônica,-1,2008,2018,1,31,single,0
+3642,Ciência da Computação,Publica,0,morning shift,2018,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,1,single,0
+1543,Engenharia Química,Escola Estadual Angelo ramazzotti,0,afternoon shift,2015,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,21,single,0
+1913,Engenharia Elétrica,Sesi Dr Emina Barbosa Mustafha,1,morning shift,2015,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+2300,Engenharia Química,Escola Estadual Senador Petrônio Portella,0,full-time school,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+2409,Engenharia Mecânica,escola estadual senador petronio portela,0,full-time school,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+2445,Ciência da Computação,Escola Estadual Marcantonio Vilaça,0,full-time school,2015,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,22,single,0
+2535,Engenharia Elétrica,Escola Estadual Maria Calderaro,0,morning shift,2016,0,0,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+2978,Engenharia Química,Cefet-Pa,-1,full-time school,2008,1,0,1,0,1,Serviço Geológico do Brasil,2013,0,1,Bacharelado em Biotecnologia,UFPA,2009,2013,1,30,single,1
+3145,Engenharia Química,Não lembro porque só estudei nela por 6 meses,0,afternoon shift,2016,0,0,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3146,Engenharia Química,Adalberto valle,1,morning shift,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3147,Engenharia Química,Escola Estadual Senador Petrônio Portella,0,full-time school,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3148,Engenharia Química,Lato Sensu Adrianopólis,1,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3149,Engenharia Química,Escola Estadual Professor Francisco das Chagas de Souza Albuquerque,0,morning shift,2015,0,0,0,0,0,n/a,n/a,n/a,1,Física,-1,2016,2016,0,22,single,0
+3150,Engenharia Química,Colegio Militar de Manaus,0,morning shift,2018,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,1,single,0
+3151,Engenharia Química,Lato Sensu,1,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3153,Ciência da Computação,Colégio DOM BOSCO,1,morning shift,2013,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,23,single,0
+3155,Engenharia Química,IFAM,-1,full-time school,2017,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3188,Engenharia Química,Escola Estadual Angelo Ramazzotti,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3190,Engenharia Química,ESCOLA ESTADUAL TEN. CORONEL CÂNDIDO MARIANO,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3191,Engenharia Química,"Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",-1,full-time school,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3192,Engenharia Química,Escola estadual professor waldocke frick lyra,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3193,Engenharia Química,Colégio Dom Bosco,1,morning shift,2016,1,1,1,1,0,n/a,n/a,n/a,1,Bacharelado em Química,UFAM,2016,2017,1,22,single,0
+3194,Engenharia Química,centro educacional adalberto valle,1,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3195,Engenharia Química, EETI marcantonio vilaça 2 ,0,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3196,Engenharia Química,Instituto federal do amazonas - cmc,-1,full-time school,2017,0,0,0,0,1,IFAM,2017,2017,0,n/a,n/a,n/a,n/a,1,20,single,0
+3197,Ciência da Computação,centro educacional lato sensu,1,morning shift,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3198,Engenharia Química,Instituto Federal do Amazonas,-1,full-time school,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3199,Engenharia Química,Laviniense Ensino Integrado,1,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3200,Engenharia Química,IFMA - Campus Caxias,-1,full-time school,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3201,Engenharia Química,Colégio Brasileiro Pedro Silvestre,0,afternoon shift,2018,1,1,1,0,1,Tribunal Regional Eleitoral,2016,2017,0,n/a,n/a,n/a,n/a,0,20,single,0
+3202,Engenharia Química,Escola Estadual de Tempo Integral Marcantonio Vilaça,0,full-time school,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3203,Ciência da Computação,centro educacional lato sensu,1,morning shift,2017,1,0,1,0,1,IB TINTAS,2017,0,0,n/a,n/a,n/a,n/a,0,19,single,0
+3204,Engenharia Química,Escola Estadual Senador Manoel Severiano Nunes ,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3205,Engenharia Química,ESCOLA ESTADUAL ALDEIA DO CONHECIMENTO PROFESSORA RUTH PRESTES GONÇALVES,0,morning shift,2016,1,0,1,0,1,WHIRLPOOL AM,2015,2017,0,n/a,n/a,n/a,n/a,0,21,single,0
+3207,Engenharia Química,Escola Estadual professora Sebastiana Braga,0,morning shift,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3208,Engenharia Química,waldocke fricke de lyra,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3209,Ciência da Computação,laviniense ensino integrado,1,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,1
+3210,Engenharia Química,Instituto Federal do  Amazonas,-1,full-time school,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3211,Engenharia Química,Escola Estadual Prof. Waldocke Fricke de Lyra,0,morning shift,2018,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3212,Engenharia Química,centro educacional adalberto valle,1,morning shift,2018,1,1,1,0,0,n/a,n/a,n/a,1,ciências naturais,universidade federal do amazonas,2017,2017,0,22,single,0
+3213,Engenharia Química,Escola Estadual Senador Manuel Severiano Nunes,0,afternoon shift,2017,0,0,0,0,1,Metalúrgica Sato da Amazônia Ltda,2018,0,0,n/a,n/a,n/a,n/a,0,19,single,0
+3214,Engenharia Química,Instituto Hilda Ferreira,1,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3215,Engenharia Química,Escola Estadual de Tempo Integral Áurea Pinheiro Braga,0,full-time school,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3216,Engenharia Química,"Instituto Federal de Educação,Ciência e Tecnologia do Amazonas",-1,full-time school,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3217,Ciência da Computação,Lato Sensu,1,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3218,Engenharia Química,ESCOLA ESTADUAL ERNESTO PENAFORT,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3219,Engenharia Química,Escola Estadual Aurea Pinheiro Braga ,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,18,single,0
+3221,Engenharia Química,La Salle,1,morning shift,2017,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3257,Sistemas de Informação,waldocke frick de lyra,0,morning shift,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3268,Engenharia Química,IFAM - CMC,0,full-time school,2017,1,0,1,0,1,IFAM,2017,2017,0,n/a,n/a,n/a,n/a,1,21,single,0
+3410,Matemática Aplicada,sdzrh,-1,full-time school,2018,1,0,1,0,1,agrsg,2001,0,1,asdgasdg,asgasdg,2002,0,0,1,widower,1
+3441,Engenharia Química,COLÉGIO AMAZONENSE DOM PEDRO II,0,afternoon shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3443,Ciência da Computação,Fundaçao Nokia de Ensino,1,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3449,Engenharia Química,colegio militar de manaus,0,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3499,Engenharia Química,Colégio Dom Bosco,1,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3502,Engenharia Química,francisco de chagas souza de albuquerque,0,morning shift,2017,0,0,0,0,0,n/a,n/a,n/a,1,Ciências Naturais,UFAM,2018,2018,0,18,single,0
+3531,Ciência da Computação,Francisco Albuquerque ,0,afternoon shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3533,Engenharia Química,Centro Educacional Lato Sensu,1,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3571,Engenharia Química,Escola Estadual Tenente Coronel Candido Mariano,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3573,Engenharia da Computação,Fundação Nokia,-1,full-time school,2016,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+1373,Sistemas de Informação,Teste,0,afternoon shift,2015,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,1,single,0
+1378,Sistemas de Informação,Escola Estadual Senador Petronio Portella,0,full-time school,2013,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,22,single,0
+2445,Ciência da Computação,Escola Estadual Marcantonio Vilaça,0,full-time school,2015,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,22,single,0
+2636,Engenharia de Software,gfgdgfg,-1,night shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,36,widower,0
+3153,Ciência da Computação,Colégio DOM BOSCO,1,morning shift,2013,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,23,single,0
+3156,Engenharia de Petróleo e Gás,Idaam,1,morning shift,2016,1,1,1,0,0,n/a,n/a,n/a,1,Ciências da Contabeis,UEA,2017,2017,1,20,single,0
+3157,Engenharia de Petróleo e Gás,La salle,1,morning shift,2017,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3158,Engenharia de Petróleo e Gás,Colégio Nossa Senhora Auxiliadora,1,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3159,Engenharia de Petróleo e Gás,IFAM ,-1,full-time school,2017,0,0,0,1,1,INPA,2017,2017,0,n/a,n/a,n/a,n/a,1,20,single,0
+3160,Engenharia de Petróleo e Gás,Centro Educacional La Salle,1,morning shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3161,Engenharia de Petróleo e Gás,instituto hilda ferreira,1,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3162,Ciência da Computação,ESCOLA ESTADUAL PROFESSOR ANTENOR SARMENTO PESSOA,0,afternoon shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3163,Engenharia de Petróleo e Gás,Colégio Amazonense Dom Pedro II,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,18,single,0
+3164,Engenharia de Petróleo e Gás,Cid Cabral da Silva,1,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,1,Matemática,-1,2018,2018,1,21,single,0
+3165,Engenharia de Petróleo e Gás,Colégio Militar da Polícia Militar,0,morning shift,2015,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3166,Engenharia de Petróleo e Gás,Escola Estadual Senador João Bosco,0,afternoon shift,2013,1,0,1,1,0,n/a,n/a,n/a,1,Licienciatura em Educação Física,-1,2016,2017,1,23,single,0
+3167,Engenharia de Petróleo e Gás,CENTRO EDUCACIONAL SILVIA GUERRA,1,afternoon shift,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3168,Engenharia de Petróleo e Gás,Escola estadual senador joão bosco ramos de lima ,0,morning shift,2010,1,0,1,1,1,semed,2016,0,1,Licenciatura plena em matemática,-1,2011,2014,1,26,single,0
+3169,Engenharia de Petróleo e Gás,Escola Estadual Inspetora Dulcineia Varela Moura,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3170,Ciência da Computação,Instituto de Educaçao El shaday,1,morning shift,2015,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3171,Engenharia de Petróleo e Gás,Escola Estadual José Mota,0,morning shift,2017,1,0,1,1,1,Fucapi,2016,2017,0,n/a,n/a,n/a,n/a,1,19,single,0
+3172,Engenharia de Petróleo e Gás,escola estadual de tempo integral joão dos santos braga,0,full-time school,2017,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3173,Ciência da Computação,Escola Estadual Senador Petrônio Portella,0,full-time school,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3174,Engenharia de Petróleo e Gás,Escola Estadual de Tempo Integral Engenheiro Sergio Pessoa Figueiredo,0,full-time school,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3175,Ciência da Computação,Centro Positiviano de Ensino,1,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,18,single,0
+3176,Engenharia de Petróleo e Gás,ESCOLA ESTADUAL NOSSA SENHORA APARECIDA ,0,morning shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3177,Engenharia de Petróleo e Gás,Centro Educacional La Salle,1,afternoon shift,2017,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3178,Engenharia de Petróleo e Gás,RODERICK DE CASTELO BRANCO,0,afternoon shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3179,Engenharia de Petróleo e Gás,CMPM II,0,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3180,Engenharia de Petróleo e Gás,instituto hilda ferreira,1,morning shift,2017,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3181,Engenharia de Petróleo e Gás,Fundação Matias Machline,-1,full-time school,2017,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3182,Engenharia de Petróleo e Gás,Colégio Amazonense Dom Pedro II,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3183,Engenharia de Petróleo e Gás,CMPM II,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3184,Engenharia de Petróleo e Gás,João Bento da Costa,0,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3185,Engenharia de Petróleo e Gás,IFAM - Campus Manaus Distrito Industrial,0,full-time school,2017,1,0,1,1,1,Abitel Telecom,2017,2017,0,n/a,n/a,n/a,n/a,1,19,single,0
+3186,Engenharia de Petróleo e Gás,Escola Estadual Maria Amelia do Espirito Santo,0,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3187,Engenharia de Petróleo e Gás,joão bento da costa ,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3189,Engenharia de Petróleo e Gás,denizard rivail,1,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3267,Engenharia de Petróleo e Gás,Centro Educacional Lato Sensu,1,afternoon shift,2012,1,1,1,1,0,n/a,n/a,n/a,1,Engenharia Quimica,UEA,2013,0,1,24,single,0
+3269,Engenharia de Petróleo e Gás,Centro Educacional La Salle,1,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3270,Ciência da Computação,CMPMV,1,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3271,Engenharia de Petróleo e Gás,Colegéio Nossa Senhora do Carmo,0,night shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3439,Engenharia de Petróleo e Gás,ESCOLA ESTADUAL ALDEIA DO CONHECIMENTO PROF. RUTH PRESTES GONÇALVES,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3440,Engenharia de Petróleo e Gás,Escola Estadual Waldocke Fricke de Lyra ,0,night shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3442,Engenharia de Petróleo e Gás,Colégio Pitágoras Juruti,1,morning shift,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3444,Engenharia de Petróleo e Gás,ceti gilberto mestrinho de medeiros raposo,0,full-time school,2017,1,1,1,0,0,n/a,n/a,n/a,1,´meteorologia,universidade do estado do amazonas- escola superior de tecnologia,2018,2018,0,19,single,0
+3485,Engenharia de Petróleo e Gás,Colégio Militarda Policia Militar I,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3497,Engenharia de Petróleo e Gás,marcantonio vilaça II,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3498,Engenharia de Petróleo e Gás,Instituto Federal de ciências e tecnologia de Rondonia,-1,afternoon shift,2015,1,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,1,single,0
+3532,Engenharia de Petróleo e Gás,escola estadual solon de lucerna,0,night shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+1163,Engenharia de Materiais,Escola Estadual Maria Amelia do Espirito Santo,0,morning shift,2015,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,22,single,0
+1177,Engenharia de Materiais,MARCANTONIO VILAÇA I,0,full-time school,2015,1,1,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,22,single,0
+1985,Engenharia de Materiais,Escola Estadual Frei Sílvio Vagheggi,0,afternoon shift,2012,1,0,1,1,1,Moto Honda da Amazônia Ltda. ,2010,2012,0,n/a,n/a,n/a,n/a,0,23,single,0
+2344,Engenharia de Materiais,Unidade Engenheiro José Galvão Fraga- Rede Pitágoras,0,full-time school,2012,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,24,single,0
+2445,Ciência da Computação,Escola Estadual Marcantonio Vilaça,0,full-time school,2015,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,22,single,0
+3304,Engenharia de Materiais,Fundação Bradesco,1,afternoon shift,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3305,Engenharia de Materiais,Escola Estadual Maria da Luz Calderaro,0,morning shift,2013,1,0,1,0,1,Jabil Industrial do Brasil,2012,2014,1,Química,UFAM,2014,2017,1,24,single,0
+3306,Engenharia de Materiais,Colégio Martha Falcão,1,full-time school,2017,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3307,Engenharia de Materiais,Escola Estadual Maria Amélia do Espírito Santo,0,afternoon shift,2016,1,0,1,0,0,n/a,n/a,n/a,1,Engenharia Florestal,-1,2017,2017,0,21,single,0
+3308,Engenharia de Materiais,IDAAM,1,morning shift,2018,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3309,Engenharia de Materiais,Escolas idaam,1,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3310,Engenharia de Materiais,CENTRO EDUCACIONAL LATO SENSU,1,afternoon shift,2015,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,21,single,0
+3311,Engenharia de Materiais,Lato Sensu,1,afternoon shift,2011,1,0,1,1,0,n/a,n/a,n/a,1,ciência da computação,ufv,2012,2016,1,25,single,0
+3312,Engenharia de Materiais,Instituto Federal do Amazonas,-1,full-time school,2011,1,1,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,26,single,0
+3313,Engenharia de Materiais,IDAAM,1,morning shift,2017,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3314,Engenharia de Materiais,Colégio Dom Bosco,1,morning shift,2013,1,1,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,23,single,0
+3315,Engenharia de Materiais,Fundação Nokia de Ensino,-1,full-time school,2012,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,24,single,0
+3316,Engenharia de Materiais,Fundação Nokia de Ensino,-1,full-time school,2018,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,1,single,0
+3317,Engenharia de Materiais,Escola Estadual Farias Brito,0,afternoon shift,2018,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,1,single,0
+3318,Engenharia de Materiais,escola estadual professora adelaide tavares de macedo,0,afternoon shift,2011,1,0,1,0,0,n/a,n/a,n/a,1,fisioterapia,centro universitario do norte,2014,2018,1,25,single,0
+3319,Engenharia de Materiais,escolas idaam,1,full-time school,2017,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3320,Engenharia de Materiais,EETI ÁUREA PINHEIRO BRAGA,0,full-time school,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3321,Engenharia de Materiais,Centro Educacional Adalberto Valle,1,morning shift,2013,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,23,single,0
+3322,Engenharia de Materiais,Colégio Nossa Senhora Auxiliadora,1,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3323,Engenharia de Materiais,Aldeia do conhecimento,0,afternoon shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3324,Engenharia de Materiais,Centro Educacional La Salle,1,afternoon shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3325,Engenharia de Materiais,idaam,1,morning shift,2018,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3326,Engenharia de Materiais,3 cmpm,0,night shift,2017,0,0,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3327,Engenharia de Materiais,E E. Profº Waldocke Fricke de Lyra,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3328,Engenharia de Materiais,centro de educação SESC. Jóse Roberto Tadros.,1,afternoon shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3329,Engenharia de Materiais,Colégio Amazonense Dom Pedro II,0,morning shift,2016,1,0,1,0,1,Flextronics-Masa da Amazônia,2015,2017,1,Engenharia Civil,-1,2017,2017,1,20,single,0
+3330,Engenharia de Materiais,escola estadual professora sebastiana braga,0,afternoon shift,2017,1,1,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3331,Engenharia de Materiais,Escola Estadual Márcio Nery,0,morning shift,2017,1,0,1,0,1,Envision Industria de Produtos Eletrônicos LTDA,2015,2017,0,n/a,n/a,n/a,n/a,1,19,single,0
+3397,Engenharia de Materiais,escola estadual ondina de paula ribeiro ,0,night shift,1989,1,1,1,0,1,corpo de bombeiros militar e professor da rede publica ,1995,0,1,licenciatura em quimica ,ifam,2003,2007,1,48,married,0
+3417,Engenharia de Materiais,idaam,1,full-time school,2017,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3418,Engenharia de Materiais,Escola Estadual Professor Ruy Alencar,0,morning shift,2012,1,0,1,0,1,Loja de conveniência ,2017,2017,1,"Licenciatura em Letras, Língua e Literatura Japonesa",-1,2013,2016,0,24,single,0
+3419,Engenharia de Materiais,IDAAM,1,full-time school,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3421,Engenharia de Materiais,Escola Estadual Senador Joao Bosco Ramos de Lima,0,afternoon shift,2018,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3476,Engenharia de Materiais,Centro Educacional Silvia Guerra ,1,morning shift,2018,1,1,1,0,0,n/a,n/a,n/a,1,Direito,Uninorte,2018,2018,1,20,single,0
+3477,Engenharia de Materiais,Colégio Dom Bosco Leste,1,morning shift,2016,1,1,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3478,Engenharia de Materiais,ESCOLA ESTADUAL PROFESSOR ANTENOR SARMENTO PESSOA,0,afternoon shift,2011,1,0,1,1,1,SUSAM,2013,2014,1,ENGENHARIA ELÉTRICA,UNINORTE,2013,0,1,25,single,0
+3508,Engenharia de Materiais,Idaam,1,morning shift,2018,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3509,Engenharia de Materiais,Idaam ,1,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3510,Engenharia de Materiais,roderick de catello branco,0,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3511,Engenharia de Materiais,José Seffair,0,afternoon shift,2015,1,0,0,0,0,n/a,n/a,n/a,1,Enfermagem,UEA,2017,2018,1,1,single,0
+3512,Engenharia de Materiais,INSTITUTO ADVENTISTA AGRO INDUSTRIAL,1,morning shift,2015,1,0,1,0,1,FLEXTRONICS,2016,2018,0,n/a,n/a,n/a,n/a,1,21,single,0
+3538,Engenharia de Materiais,Escola Estadual Agnello Bittencourt,0,night shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3543,Engenharia de Materiais,instituto federal do Amazonas,-1,full-time school,2010,1,1,1,0,1,ANDRADE GUTIERRES,2009,2010,1,ENGENHARIA DE MATERIAIS,UFAM,2011,2017,1,27,single,0
+3561,Engenharia de Materiais,ifam,-1,full-time school,2018,1,0,1,1,1,sony,2017,2018,0,n/a,n/a,n/a,n/a,0,1,single,0
+3634,Ciência da Computação, D. Pedro II,0,morning shift,2018,0,0,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,1,single,0
+1719,Engenharia Mecânica,alice salerno gomes de lima,0,morning shift,2015,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+2125,Engenharia de Materiais,Dr. Isaac Sverner,0,afternoon shift,2014,1,0,1,0,1,UFAM,2014,2014,0,n/a,n/a,n/a,n/a,1,22,single,0
+2132,Engenharia de Materiais,alice salerno g lima,0,morning shift,2009,1,0,1,1,1,Yamaha motor da amazonia ,2012,2012,0,n/a,n/a,n/a,n/a,1,30,single,0
+2300,Engenharia Química,Escola Estadual Senador Petrônio Portella,0,full-time school,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+2409,Engenharia Mecânica,escola estadual senador petronio portela,0,full-time school,2016,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+2646,Engenharia de Software,Centro Educacional Recanto da Criança Interativo,1,morning shift,2016,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+2763,Engenharia da Computação,CETI - Professor Engenheiro Sério Alfredo Pessoa Figueiredo,0,full-time school,2016,1,1,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3030,Engenharia Mecânica,Colégio Dom Bosco,1,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,1,Física,UFAM,2017,2018,0,21,single,0
+3039,Ciência da Computação,E.E Maria Madalena Santana de Lima,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3075,Engenharia Mecânica,IDAAM,1,morning shift,2014,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,24,single,0
+3076,Engenharia Mecânica,2.º Colégio Militar da Polícia Militar,0,full-time school,2018,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,1,single,0
+3077,Engenharia Mecânica,ENG:ARTUR SOARES AMORIM ,0,morning shift,2009,1,0,1,1,1,TRIBUNAL RUI BARBOSA TAMRB ,2008,2018,0,n/a,n/a,n/a,n/a,1,42,single,1
+3078,Engenharia Mecânica,ESCOLA ESTADUAL PROFESSOR ROBERTO DOS SANTOS VIEIRA,0,afternoon shift,2006,1,0,1,1,1,MOSS4M ,2018,0,1,FÍSICA BACHARELADO,UFAM,2017,2017,0,30,single,0
+3079,Engenharia Mecânica,IFAM - Distrito Industrial,-1,full-time school,2017,1,1,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
+3080,Engenharia Mecânica,Ifam - Instituto Federal do Amazonas,-1,full-time school,2017,1,1,1,1,1,Sony Brasil,2017,2017,0,n/a,n/a,n/a,n/a,0,20,single,0
+3081,Engenharia Mecânica,FUCAPI,1,morning shift,2017,1,1,1,1,1,Manaós Tech for kids,2017,2018,0,n/a,n/a,n/a,n/a,1,20,single,0
+3082,Engenharia Mecânica,IFAM - Campus Manaus Centro,-1,full-time school,2017,0,0,0,0,1,Pérola Engenharia,2017,2017,0,n/a,n/a,n/a,n/a,1,19,single,0
+3083,Engenharia Mecânica,Escola Estadual Deputado Josue Claudio de Souza,0,afternoon shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,21,single,0
+3084,Engenharia Mecânica,IFAM - Campus Manaus Centro,-1,full-time school,2017,1,0,1,0,0,n/a,n/a,n/a,1,Engenharia Naval,UEA- EST,2018,2018,1,19,single,0
+3085,Engenharia Mecânica,FUNDAÇÃO NOKIA DE ENSINO,-1,full-time school,2007,1,0,1,0,0,n/a,n/a,n/a,1,ADMINISTRAÇÃO,UFAM,2008,2013,1,30,single,0
+3086,Engenharia Mecânica,centro educacional adalberto valle,1,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3087,Engenharia Mecânica,Fundação Nokia de Ensino,-1,full-time school,2017,0,0,0,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3088,Engenharia Mecânica,Escola de Educação Básica e Profissional Fundação Bradesco,1,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3089,Engenharia Mecânica,Escola Estadual Raimunda Holanda de Souza,0,morning shift,2017,1,1,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3090,Engenharia Mecânica,Escola Estadual Professor Waldocke Fricke de Lyra,0,morning shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3091,Engenharia Mecânica,Senador João Bosco ,0,afternoon shift,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3092,Engenharia Mecânica,Organização educacional farias brito,0,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3093,Engenharia Mecânica,Colégio Militar de Manaus,0,morning shift,2015,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,22,single,0
+3094,Engenharia Mecânica,Lato Sensu,1,morning shift,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3095,Engenharia Mecânica,Escola Estadual Dr. José Milton Bandeira,0,afternoon shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3096,Engenharia Mecânica,E.E Milburges Bezerra de Araujo,0,night shift,2017,1,0,0,0,1,Fogas,2017,2017,0,n/a,n/a,n/a,n/a,0,20,single,0
+3097,Engenharia Mecânica,Escola Estadual Engenheiro Sérgio Pessoa,0,full-time school,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3098,Engenharia Mecânica,Fundação Mathias Machline,1,morning shift,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3100,Engenharia Mecânica,Centro Educacional Fucapi,1,morning shift,2017,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3101,Engenharia Mecânica,Colégio MIlitar da Policia MIlitar ,0,morning shift,2016,1,0,1,0,0,n/a,n/a,n/a,1,Licenciatura Plena em Física,-1,2017,0,0,22,single,0
+3102,Engenharia Mecânica,Centro Educacional Anchieta,1,morning shift,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3103,Engenharia Mecânica,Colégio Nossa Senhora do Rosário,1,afternoon shift,2017,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3104,Engenharia Mecânica,CENTRO DE EDUCAÇÃO SESC JOSÉ ROBERTO TADROS,1,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3105,Engenharia Mecânica,escola estadual solon de lucena,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3106,Engenharia Mecânica,COL DOM BOSCO,1,morning shift,2018,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3190,Engenharia Química,ESCOLA ESTADUAL TEN. CORONEL CÂNDIDO MARIANO,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,19,single,0
+3321,Engenharia de Materiais,Centro Educacional Adalberto Valle,1,morning shift,2013,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,23,single,0
+3434,Engenharia Mecânica,ifam,-1,full-time school,2005,1,0,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,32,single,0
+3435,Engenharia Mecânica,Escola Estadual Marcantonio Vilaça 1,0,full-time school,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3462,Ciência da Computação,aurea pinheiro braga,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,21,single,0
+3465,Ciência da Computação,cema,1,morning shift,2018,1,0,1,1,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,19,single,0
+3488,Engenharia Mecânica,Escola Estadual Professor Francisco das Chagas de Souza Albuquerque,0,afternoon shift,2017,1,1,1,0,1,Essilor da Amazônia LTDA,2016,2018,0,n/a,n/a,n/a,n/a,1,19,single,0
+3489,Ciência da Computação,CETI - Dep. Gláucio Gonçalves,0,full-time school,2017,0,0,0,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,0,20,single,0
+3522,Engenharia Mecânica,nossa senhora aparecida,0,morning shift,2017,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,20,single,0
+3569,Engenharia Mecânica,instituto de educação do amazonas,0,full-time school,2016,1,1,1,0,0,n/a,n/a,n/a,0,n/a,n/a,n/a,n/a,1,21,single,0
